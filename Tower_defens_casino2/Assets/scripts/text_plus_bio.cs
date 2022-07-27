@@ -33,10 +33,14 @@ public class text_plus_bio : MonoBehaviour
         text_bio.text = "+";
         text_bio.text = "+" + bio.ToString();
 <<<<<<< HEAD
+<<<<<<< HEAD
         float t = 0f;
 =======
         float t = 0.5f;
 >>>>>>> parent of 7a60921 (fastless_new)
+=======
+        float t = 0.25f;
+>>>>>>> parent of 487d038 (zero_start)
         while(t <= 1)
         {
             t += 0.000001f;
