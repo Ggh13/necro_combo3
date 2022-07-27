@@ -57,3 +57,5 @@ sysinfo.txt
 *.unitypackage
 *.dll
 *.log
+*.log
+*.dll
