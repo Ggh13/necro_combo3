@@ -5,6 +5,21 @@
 [Ll]ogs/*
 [Bb]uild/
 [Bb]uilds/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Ll]ogs/*
+/[Bb]uild/
+/[Bb]uilds/
+
+Tower_defens_casino2/[Ll]ibrary/
+Tower_defens_casino2/[Tt]emp/
+Tower_defens_casino2/[Oo]bj/
+Tower_defens_casino2/[Ll]ogs/
+Tower_defens_casino2/[Ll]ogs/*
+Tower_defens_casino2/[Bb]uild/
+Tower_defens_casino2/[Bb]uilds/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
