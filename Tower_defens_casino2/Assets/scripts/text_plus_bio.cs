@@ -32,7 +32,7 @@ public class text_plus_bio : MonoBehaviour
     {
         text_bio.text = "+";
         text_bio.text = "+" + bio.ToString();
-        float t = 0;
+        float t = 0.5f;
         while(t <= 1)
         {
             t += 0.000001f;
