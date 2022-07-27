@@ -32,7 +32,11 @@ public class text_plus_bio : MonoBehaviour
     {
         text_bio.text = "+";
         text_bio.text = "+" + bio.ToString();
+<<<<<<< HEAD
         float t = 0f;
+=======
+        float t = 0.5f;
+>>>>>>> parent of 7a60921 (fastless_new)
         while(t <= 1)
         {
             t += 0.000001f;
